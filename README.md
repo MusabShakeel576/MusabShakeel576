@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Musab Shakeel
 - 👀 I’m interested in web and app development
-- 🌱 I’m currently learning various stacks and programming languages
+- 🌱 I’m always learning various stacks and programming languages
 - 💞️ I’m looking to collaborate on new projects
 - 📫 Reach me through Twitter DM @MusabShakeel
 
